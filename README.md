@@ -13,7 +13,7 @@ A world map that tracks your footsteps into every city you can think of.
     ```
 1. Run the following command to change directory into the repository:
     ```bash
-    cd /path/toWorldWise
+    cd /path/to/WorldWise
     ```
 2. Run the following command to install the required dependencies:
     ```bash
